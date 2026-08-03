@@ -1,12 +1,21 @@
-Dashboard Power BI
-Tecnologias
-Power BI
-Power Query
-DAX
+# 📊 Dashboard Power BI
 
-Objetivo
+Projeto desenvolvido durante meus estudos em Power BI, com foco na criação de dashboards interativos para análise de dados.
 
-Construção de dashboard interativo para análise de dados utilizando Power BI.
+## 🚀 Tecnologias utilizadas
 
-Acesse o dashboard
-https://app.powerbi.com/view?r=eyJrIjoiZmU4NWY1OWMtN2IyMS00ZGYyLTg1MWYtODFmYmY2NjM4NzBlIiwidCI6ImI2YmViYTAyLTc2NmEtNDJmMy04ZGNiLTg0ZWYwMmRiM2UwMSJ9
+- Power BI
+- Power Query
+- DAX
+
+## 🎯 Objetivo
+
+Desenvolver um dashboard interativo utilizando Power BI para análise e visualização de dados.
+
+## 🔗 Acesse o Dashboard
+
+👉 https://app.powerbi.com/view?r=eyJrIjoiZmU4NWY1OWMtN2IyMS00ZGYyLTg1MWYtODFmYmY2NjM4NzBlIiwidCI6ImI2YmViYTAyLTc2NmEtNDJmMy04ZGNiLTg0ZWYwMmRiM2UwMSJ9
+
+---
+Desenvolvido por **Bruna Ximenes**
+
