@@ -3,6 +3,7 @@ Tecnologias
 Power BI
 Power Query
 DAX
+
 Objetivo
 
 Construção de dashboard interativo para análise de dados utilizando Power BI.
