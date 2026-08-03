@@ -20,4 +20,4 @@ Dashboard desenvolvido em Power BI para análise de resultados de exames laborat
 
 ## Dashboard Online
 
-https://app.powerbi.com/reportEmbed?reportId=e3440c82-7a2b-43e6-893e-c8b824de2ba7&autoAuth=true&ctid=b6beba02-766a-42f3-8dcb-84ef02db3e01
+https://app.powerbi.com/view?r=eyJrIjoiOTc0OTc2MTgtYTAxMy00MzlmLTk4YjgtYWYyMGFjYTNkYmZkIiwidCI6ImI2YmViYTAyLTc2NmEtNDJmMy04ZGNiLTg0ZWYwMmRiM2UwMSJ9
