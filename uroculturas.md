@@ -51,7 +51,7 @@ O estudo foi posteriormente publicado como artigo científico.
 
 ## 🔗 Dashboard Interativo
 
-👉 https://app.powerbi.com/view?r=eyJrIjoiOTc0OTc2MTgtYTAxMy00MzlmLTk4YjgtYWYyMGFjYTNkYmZkIiwidCI6ImI2YmViYTAyLTc2NmEtNDJmMy04ZGNiLTg0ZWYwMmRiM2UwMSJ9
+🔗 **[Clique aqui para visualizar o dashboard interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTc0OTc2MTgtYTAxMy00MzlmLTk4YjgtYWYyMGFjYTNkYmZkIiwidCI6ImI2YmViYTAyLTc2NmEtNDJmMy04ZGNiLTg0ZWYwMmRiM2UwMSJ9)**
 
 ## 📄 Artigo científico
 
